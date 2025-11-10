@@ -13,7 +13,7 @@ namespace Regex_Osennikov.Classes
         public string LastName { get; set; }
         public string Issued {  get; set; }
         public string DateOfIssued {  get; set; }
-        public string DepartamentCode { get; set; }
+        public string DepartmentCode { get; set; }
         public string SeriesAndNumber { get; set; }
         public string DateOfBirth { get; set; }
         public string PlaceOfBirth {  get; set; }
