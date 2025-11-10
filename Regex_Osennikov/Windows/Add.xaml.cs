@@ -116,7 +116,7 @@ namespace Regex_Osennikov.Windows
             EditPassports.DateOfBirth = DateOfBirth.Text;
             EditPassports.PlaceOfBirth = PlaceOfBirth.Text;
 
-            MainWindow.init.LoadPassports();
+            MainWindow.init.LoadPassport();
 
             this.Close();
         }
